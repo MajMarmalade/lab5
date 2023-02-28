@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: rgb(126, 113, 228);
+}
+
+td , th {
+  border: 1px solid;
+  color :rgb(126, 113, 228);
+}
+
+td{
+  font-size: medium;
+  font-weight: 300;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+}
+
+th {
+  font-size: small;
+  font-weight: 300;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+}
