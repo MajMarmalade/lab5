@@ -12,14 +12,17 @@ td , th {
   color :rgb(126, 113, 228);
 }
 
+#planets img{
+  width: 70px;
+  height: 70px;
+}
+
 td{
-  font-size: small;
-  font-weight: 200;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+  font-size: small; 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 th {
-  font-size: medium;
-  font-weight: 400;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+  font-size: medium; 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
